@@ -1,5 +1,5 @@
 {
-  "name": "now-examples-slackin",
+  "name": "ellcrys",
   "version": "1.0.0",
   "description": "Deploy `rauchg/slackin` to Now in one command",
   "scripts": {
